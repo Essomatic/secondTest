@@ -93,5 +93,5 @@ test
 
 
 <div id="metatavu-custom-footer"><div align="center">
-    <h2>Change</h2>
+    <h2>Example</h2>
 </div></div>
