@@ -91,6 +91,6 @@ test
     </table>
 </div>
 
-<div id="metatavu-custom-footer"><div align="center">
-    <h2>Testings</h2>
+<div id="metatavu-custom-footer"> <div align="center">
+            <h2>s</h2>
 </div></div>
